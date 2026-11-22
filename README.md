@@ -62,6 +62,3 @@ Developed by:
 - **Fabiano Molinari**
 
 ---
-
-
-Puoi copiarlo direttamente nel file `README.md` del repository. Basta sostituire `#` nella sezione Documentation con il link effettivo alla documentazione.
