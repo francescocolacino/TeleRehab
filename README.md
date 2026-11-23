@@ -48,7 +48,7 @@ Its main objectives are to:
 
 Project documentation and additional resources:
 
-📂 **[Open Project Documentation](#)**
+https://drive.google.com/drive/folders/1HXDILdkaY02C9OBej0Hv1qJqqOg4x7iK?usp=sharing
 
 <!-- Replace # with the actual documentation folder link -->
 
